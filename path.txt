@@ -1,0 +1,37 @@
+Assignments
+
+1. use the array() to create an array.
+
+2. use array.shape to print the shape of an array
+
+3. use array.size to print the size of an array
+
+4. use arange(start, stop, skip) to create an array.
+
+5. use the linspace(start, stop, no_of_elements) to create an evenly spaced array.
+
+6. use the array.mean() to find the mean of an array.
+
+7. use the array.std() to find the standard deviation of an array.
+
+8. Multiply all the elements of an array by 10 and store it in a new array.
+
+9. Print the first half and last half of an array.
+
+10. Use the random() to store 10 random values between 0 and 1 in an array.
+
+11. Use the rand() to store random values in the shape (3,4)
+
+12. Use the randint(start, stop, no_of_int) to store 9 random integers in an array between 10 and 20
+
+13. Use the randn() store an array which is normally distributed
+
+14. Use the zeros() to create an array of zeros in the shape (3, 4)
+
+15. Take an array with even and odd numbers in it. Store only the even/odd numbers in another array.
+
+16. Take an array from 10 to 20 with 40 values. Store only the numbers which are greater/lesser than 15
+
+17. Using Matplotlib, plot a sin, cos, tan wave.
+
+18. Reshaping, np.vectorize()
