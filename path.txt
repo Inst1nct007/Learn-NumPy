@@ -34,4 +34,10 @@ Assignments
 
 17. Using Matplotlib, plot a sin, cos, tan wave.
 
-18. Reshaping, np.vectorize()
+18. Use the np.vectorize() to find the first character of each element in an array of strings.
+
+19. Use the np.vectorize() to find the elements ending with 't' . Add only those element into a new array.
+
+20. Use np.gradient to find the roots of a function. i.e. where the dydx is 0.
+
+21. Reshape
