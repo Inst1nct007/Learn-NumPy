@@ -40,4 +40,50 @@ Assignments
 
 20. Use np.gradient to find the roots of a function. i.e. where the dydx is 0.
 
-21. Reshape
+21. Use the ravel() method to convert an n-dim array to an 1-d array.
+
+22. In an 2d array
+
+[[1,2,3],
+ [4,5,6],
+ [7,8,9]]
+
+Print only the elements in the first column
+
+23. Convert a 2d array such that it's first row goes to last and last row comes to first.
+
+Eg. Initial Array
+
+[[1,2,3],
+ [4,5,6],
+ [7,8,9]]
+
+Final Array
+
+[[7,8,9],
+ [4,5,6],
+ [1,2,3]]
+
+24. Convert a 2d array such that it's first column goes to last and last column comes to first.
+
+Eg. Initial Array
+
+[[1,2,3],
+ [4,5,6],
+ [7,8,9]]
+
+Final Array
+
+[[3,2,1],
+ [6,5,4],
+ [9,8,7]]
+
+25. Given two arrays 
+
+[1,2,3,4,5]
+
+[6,7,8,9,10]
+
+using the meshgrid() multiply each element of one array with the elements of the second array.
+
+26. Reshape
