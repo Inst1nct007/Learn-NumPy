@@ -160,4 +160,4 @@ ii. The shape of the solution will be (y,z)
 
 33. Use the np.linalg.eig() to find the eigen values and the eigen vectors of an array
 
-34. reshape
+34. Use the reshape() to change the shape of an array.
