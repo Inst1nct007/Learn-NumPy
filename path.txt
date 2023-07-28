@@ -152,8 +152,12 @@ ii. The shape of the solution will be (y,z)
  [2],
  [3]]
 
-30. Find the Scalar/dot product of two matrices
+30. Use the np.dot() to find the Scalar/dot product of two matrices
 
-31. Find the vector product of two matrices
+31. Use the np.cross() find the vector product of two matrices
 
-32. Reshape
+32. Use the np.linalg.solve() to solve a given system of linear equations
+
+33. Use the np.linalg.eig() to find the eigen values and the eigen vectors of an array
+
+34. reshape
