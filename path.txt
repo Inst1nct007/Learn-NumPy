@@ -86,4 +86,74 @@ Final Array
 
 using the meshgrid() multiply each element of one array with the elements of the second array.
 
-26. Reshape
+26. Convert a 2d array such that it's first row & column goes to last and last column and row comes to first.
+
+Eg. Initial Array
+
+[[1,2,3],
+ [4,5,6],
+ [7,8,9]]
+
+Final Array
+
+[[9,8,7],
+ [6,5,4],
+ [3,2,1]]
+
+27. WAP to transpose a matrix
+
+Eg. Initial Matrix
+
+[[1,2,3],
+ [4,5,6],
+ [7,8,9]]
+
+Transposed Matrix
+
+[[1,4,7],
+ [4,5,6],
+ [7,8,9]]
+
+28. Operations (+,-,*,/,%) between two arrays are only possible if their shapes are:
+
+i. Either both the same no.
+
+ii. One of them is 1
+
+Eg. 1
+
+shape of arr1 = (2,5,1,4,7)
+
+shape of arr2 = (2,5,6,1,7)
+
+Operations are POSSIBLE
+
+Eg. 2
+
+shape of arr1 = (2,3,4)
+
+shape of arr2 = (4,3,2)
+
+Operations are not Possible
+
+REMEMBER Given two matrices, their multiplication is only possible if:
+
+i. Their shapes are (y,x) and (x,z)
+
+ii. The shape of the solution will be (y,z)
+
+29. Find the multiplication of two matrices
+
+[[1,2,3],
+ [4,5,6],
+ [7,8,9]]
+
+[[1],
+ [2],
+ [3]]
+
+30. Find the Scalar/dot product of two matrices
+
+31. Find the vector product of two matrices
+
+32. Reshape
