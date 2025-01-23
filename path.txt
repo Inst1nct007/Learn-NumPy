@@ -20,6 +20,10 @@ Assignments
 
 10. Use the random() to store 10 random values between 0 and 1 in an array.
 
+**Added Later**
+
+Use the RandomState() with a seed to create random values that woudn't change.
+
 11. Use the rand() to store random values in the shape (3,4)
 
 12. Use the randint(start, stop, no_of_int) to store 9 random integers in an array between 10 and 20
