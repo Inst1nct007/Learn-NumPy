@@ -2,6 +2,19 @@ Assignments
 
 1. use the array() to create an array.
 
+**Added Later**
+
+Create a 1D array and append a number to it's end
+
+Create a 2D array and append a row to it's end.
+Eg.
+INPUT - [[1, 2, 3], [4, 5, 6]]
+OUTPUT - [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+Create a 2D array and append a column to it's end.
+INPUT - [[1, 2, 3], [4, 5, 6]]
+OUTPUT - [[1, 2, 3, 7], [4, 5, 6, 8]]
+
 2. use array.shape to print the shape of an array
 
 3. use array.size to print the size of an array
